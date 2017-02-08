@@ -1,0 +1,138 @@
+@charset "utf-8";
+/* CSS Document */
+
+body
+{
+	overflow:visible;
+}
+.footer{
+	position:fixed;
+	bottom:0;
+	left:0;
+	width:100%;
+	text-align:center;
+	color:#ffffff;
+	padding:10px 0;
+	z-index:100;
+	font-size:12px;
+	font-family:fugue !important; 
+}
+
+.section1{
+		background-image:url(../images/shower-beer_04_bottles-foam.jpg);
+		background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+height: 100vh;
+width: 100%;
+position: relative;
+display: -webkit-box;
+display: -ms-flexbox;
+display: flex;
+-webkit-box-orient: vertical;
+-webkit-box-direction: normal;
+-ms-flex-direction: column;
+flex-direction: column;
+-webkit-box-pack: center;
+-ms-flex-pack: center;
+justify-content: center;
+text-align:center;
+
+	}
+	.section2{
+		background-color:#2f1715;
+		background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+height: 100vh;
+width: 100%;
+position: relative;
+display: -webkit-box;
+display: -ms-flexbox;
+display: flex;
+-webkit-box-orient: vertical;
+-webkit-box-direction: normal;
+-ms-flex-direction: column;
+flex-direction: column;
+-webkit-box-pack: center;
+-ms-flex-pack: center;
+text-align:center;
+
+	}
+	.section3{
+		background-color:#ffbfc4;
+		background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+height: 100vh;
+width: 100%;
+position: relative;
+display: -webkit-box;
+display: -ms-flexbox;
+display: flex;
+-webkit-box-orient: vertical;
+-webkit-box-direction: normal;
+-ms-flex-direction: column;
+flex-direction: column;
+-webkit-box-pack: center;
+-ms-flex-pack: center;
+justify-content: center;
+text-align:center;
+
+	}
+	.section4{
+		background-image:url(../images/shower-beer_08_row-with-bottles.jpg);
+		background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+height: 100vh;
+width: 100%;
+position: relative;
+display: -webkit-box;
+display: -ms-flexbox;
+display: flex;
+-webkit-box-orient: vertical;
+-webkit-box-direction: normal;
+-ms-flex-direction: column;
+flex-direction: column;
+-webkit-box-pack: center;
+-ms-flex-pack: center;
+justify-content: center;
+text-align:center;
+
+	}
+	.section5{
+		background-image:url(../images/shower-beer_09_broken-bottle.jpg);
+		background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+height: 100vh;
+width: 100%;
+position: relative;
+display: -webkit-box;
+display: -ms-flexbox;
+display: flex;
+-webkit-box-orient: vertical;
+-webkit-box-direction: normal;
+-ms-flex-direction: column;
+flex-direction: column;
+-webkit-box-pack: center;
+-ms-flex-pack: center;
+justify-content: center;
+text-align:center;
+
+	}
+	.section3 h1{
+		color: #FFF;
+	}
+	.section1 h1{
+		left: 0;
+		right: 0;
+		margin: 0 auto;
+		top: 30px;
+		color: #fff;
+	}
+	#infoMenu li a{
+			color: #fff;
+	}
+	
